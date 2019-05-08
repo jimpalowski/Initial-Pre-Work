@@ -1,0 +1,13 @@
+/* We overrided the green text by giving our header a class of "pink-text" thereby setting the text to pink. */
+
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color:pink;
+  }
+</style>
+<h1 class="pink-text">Hello World!</h1>
