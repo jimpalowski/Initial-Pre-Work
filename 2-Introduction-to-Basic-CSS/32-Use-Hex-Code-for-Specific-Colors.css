@@ -1,0 +1,7 @@
+/* Instead of writing out the word black we are using hex code which are codes for colors. */
+
+<style>
+  body {
+    background-color: #000000;
+  }
+</style>
