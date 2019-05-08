@@ -1,0 +1,7 @@
+/* We set the body of our page to be black. */
+
+<style>
+  body {
+    background-color: black;
+  }
+</style>
