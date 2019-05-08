@@ -1,0 +1,8 @@
+/* We use rgb to change the background color to black by setting it to rgb(0, 0 ,0). 
+This is another way to mix and match colors. */
+
+<style>
+  body {
+    background-color: rgb(0, 0 , 0);
+  }
+</style>
